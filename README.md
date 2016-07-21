@@ -17,5 +17,5 @@ Just include the Myth file like another stylesheet but replace the `rel` attribu
 After this, download the MythClient script and include it with a `<script>` tag in the head element:
 
 ```css
-<script src="mythclient.js" type="text/javascript"></script>
+<script src="https://raw.githubusercontent.com/Xstoudi/MythClient/master/dist/mythclient.min.js" type="text/javascript"></script>
 ```
