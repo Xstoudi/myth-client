@@ -4,6 +4,8 @@ A client-side Myth transpiler.
 
 Client-side transpiler is the fastest way to get started for developing with Myth but this feature isn't offered by the basic Myth module. So here it is.
 
+Please notice this client-side transpiler is good for development, but a server-sider transpiler is far better in production.
+
 ## How to use
 
 Just include the Myth file like another stylesheet but replace the `rel` attribute to `stylesheet/less`:
