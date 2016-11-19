@@ -8,7 +8,7 @@ Please notice this client-side transpiler is good for development, but a server-
 
 ## How to use
 
-Just include the Myth file like another stylesheet but replace the `rel` attribute to `stylesheet/less`:
+Just include the Myth file like another stylesheet but replace the `rel` attribute to `stylesheet/myth`:
 
 ```css
 <link rel="stylesheet/myth" type="text/css" href="style.css" />
